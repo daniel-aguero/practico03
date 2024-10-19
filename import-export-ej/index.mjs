@@ -1,4 +1,4 @@
-import { leerPersona, agregarPersona } from "../utils.mjs";
+import { leerPersona, agregarPersona } from "./utils.mjs";
 
 const rutaOriginal = './datos/personas.txt';
 const rutaNueva = './datos/agregarPersona.txt'; 
